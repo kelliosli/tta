@@ -1,0 +1,1 @@
+Table Tennis Analyzer (tta) - the project specialized to analyze data from table tennis matches.(In progress)

@@ -1,0 +1,1 @@
+id, playerid, spin, zone(1-6 if hit), hit
